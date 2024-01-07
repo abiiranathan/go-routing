@@ -1,0 +1,9 @@
+RootPkg='hello'
+
+[Models]
+Pkgs=['hello/models']
+Skip=[]
+
+[Output]
+OutDir='.'
+ServiceName='svc'

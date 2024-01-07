@@ -1,0 +1,6 @@
+*.sqlite3
+*.db
+*.sqlite
+
+# OS generated files #
+hello
